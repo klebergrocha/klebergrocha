@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying on **[The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)**
+- 🧑‍💻 I’m currently studying on **[The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)**
 
 - 🌱 I'm learning everything **JavaScript**
 
@@ -38,8 +38,23 @@
     <a href="https://www.oracle.com/database/what-is-database/" target="_blank"> <img src="https://img.icons8.com/external-prettycons-flat-prettycons/50/null/external-databases-web-seo-prettycons-flat-prettycons.png"/> </a>
     <a href="https://developers.google.com/maps/documentation/geocoding" target="_blank"> <img src="https://img.icons8.com/external-smashingstocks-circular-smashing-stocks/50/null/external-localization-shopping-and-e-commerce-smashingstocks-circular-smashing-stocks.png"/> </a>
     <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/figma--v1.png"/> </a>
-</p>  
-  
+</p> 
+<br> 
+
+<p align="center">
+    <a href="https://github.com/klebergrocha/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kleber G Rocha streak" src="https://github-readme-streak-stats.herokuapp.com/?user=klebergrocha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/klebergrocha/github-readme-stats"><img alt="Kleber G Rocha Github Stats" src="https://github-readme-stats.vercel.app/api?username=klebergrocha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/klebergrocha/github-readme-stats"><img alt="Kleber G Rocha  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebergrocha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+
+ 
     
 
 
